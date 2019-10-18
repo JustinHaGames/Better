@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - RoomManager
+  - Box
+  - Wall
+  - Water
+  - BoxPusher
+  - Portal
+  - Target
+  - Barrier
+  - SpecialBox
+  - PlayerTop
+  - BrokenFloor
+  - HookShot
+  - Floor
+  - SpecialEnemy
+  - RealityPlayer
+  - Shelf
+  - Monarch
+  - GreyBox
+  - TapeMeasure
+  - Cobweb
+  - SpecialCobweb
+  - Latch
+  - CasualWinner
+  - PlayerPool
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Platform
+  - 
+  - Enemy
+  - 
+  - Player
+  - 
+  - Box
+  - BoxTop
+  - Wall
+  - PlayerTop
+  - BoxPusher
+  - Barrier
+  - HookShot
+  - RealityPlayer
+  - Monarch
+  - Latch
+  - CasualWinner
+  - PlayerPool
+  - Black
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Text
+    uniqueID: 1857191457
+    locked: 0
